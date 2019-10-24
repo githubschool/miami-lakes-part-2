@@ -68,4 +68,4 @@ Please take a moment to complete the class survey at: .
 After you have completed this course, you are probably wondering where to go from here:
 
 - [GitHub Learning Lab](https://lab.github.com/): self paced courses with instant bot-assisted feedback. 
-- [Join the open source community](https://github.com/open-source)
+- [ ] [Join the open source community](https://github.com/open-source)
